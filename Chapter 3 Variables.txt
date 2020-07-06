@@ -1,1 +1,6 @@
-Branches
+Basic if-else branch
+  if(exampleInteger < 15){
+  exampleInteger = 2;
+  }else{
+  exampleInteger = 3;
+  }
